@@ -10,10 +10,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4ce9f0f-9b35-415d-9e8d-3184dfd96c93" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Assignment1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/.idea/artifacts/Calculator_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/.idea/artifacts/Calculator_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Calculator/src/main/java/cal/calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Calculator/src/main/webapp/calculator.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCDemoMaven/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCDemoMaven/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCDemoMaven/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCDemoMaven/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCDemoMaven/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCDemoMaven/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JDBCDemoMaven/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JDBCDemoMaven/src/main/java/jdbc/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCDemoMaven/target/classes/jdbc/demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/artifacts/login_war.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/artifacts/login_war_exploded.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
@@ -21,13 +43,19 @@
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/login.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/conn/DBConnect.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/conn/MySQLConnection.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/control/LoginControl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/dao/LoginDAO.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/entity/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/webapp/success.jsp" afterDir="false" />
@@ -65,19 +93,19 @@
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/boyng/.m2/repository/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.jar",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.general"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/boyng/.m2/repository/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Tomcat 9.0.65" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.65" ALTERNATIVE_JRE_ENABLED="false">
       <deployment>
@@ -176,6 +204,7 @@
       <updated>1668792589438</updated>
       <workItem from="1668792591041" duration="2476000" />
       <workItem from="1668871898235" duration="10888000" />
+      <workItem from="1668888018988" duration="25000" />
     </task>
     <servers />
   </component>
